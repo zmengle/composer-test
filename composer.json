@@ -1,0 +1,18 @@
+{
+    "name": "zmengle/gitlabapi",
+    "description": "gitlabapi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lionzhang",
+            "email": "z550254092@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zmengle\\GitlabApi\\": "src/",
+            "Zmengle\\GitlabApiTests\\": "tests/"
+        }
+    }
+}
